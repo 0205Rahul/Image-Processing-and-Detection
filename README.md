@@ -1,4 +1,7 @@
 # Image-Processing-and-Detection
+![1](https://github.com/0205Rahul/Image-Processing-and-Detection/assets/108475337/dd02d7da-9900-4b1b-bb59-7f82c03fc535)
+
+
 
 Image processing refers to a set of techniques used to manipulate digital images to extract useful information or enhance their visual quality. It involves using mathematical algorithms to perform operations such as filtering, segmentation, and edge detection to extract information from images.
 
