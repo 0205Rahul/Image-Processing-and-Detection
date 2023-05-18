@@ -4,7 +4,730 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42c02c8c-dad4-4681-893f-31464422ce38" name="Changes" comment="" />
+    <list default="true" id="42c02c8c-dad4-4681-893f-31464422ce38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Dataset/car/100171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/102685.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/103773.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/111104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/115988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/119092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/128887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/130726.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/13193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/137920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/139345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/141101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/143302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/145185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/145195.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/145512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/146072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/153019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/155229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/155509.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/155828.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/156277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/158493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/16299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/164486.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/168329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/171443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/17882.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/186136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/186805.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/188317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/190997.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/193027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/193056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/194129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/200275.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/208696.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/209491.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/212241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/212390.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/218014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/2182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/219222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/228698.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/235154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/242150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/245302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/248526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/250150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/251327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/251395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/257301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/257927.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/258179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/258540.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/26135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/264441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/264675.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/269660.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/270672.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/276086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/276520.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/280708.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/280933.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/282474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/282948.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/283040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/283794.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/284021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/285152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/286973.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/289443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/29174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/292846.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/295158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/306616.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/309098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/312250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/315947.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/317185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/325841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/328789.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/329220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/331995.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/333847.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/333879.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/333991.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/339664.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/344339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/34456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/346986.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/34715.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/348157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/349172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/355833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/360006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/361936.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/374506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/378100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/378950.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/387162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/39489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/398674.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/39878.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/400358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/402313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/404887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/408218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/409606.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/410378.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/411642.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/414882.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/418663.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/419509.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/420924.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/424648.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/42618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/426822.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/434586.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/438154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/443971.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/444238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/445310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/453637.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/454739.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/4560.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/468811.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/469775.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/473502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/482830.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/485014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/486984.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/492659.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/493457.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/503437.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/50483.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/505379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/509950.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/510742.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/517494.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/519386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/522730.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/523324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/524107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/525392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/525987.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/527214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/530948.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/532712.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/532742.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/540709.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/542108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/543189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/544767.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/545887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/55450.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/556310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/556762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/564579.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/567049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/568568.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/572512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/573432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/574138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/575820.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/580327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/581156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/582171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/591090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/595347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/597672.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/599327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/600109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/601054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/601200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/60251.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/604996.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/610036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/610661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/613827.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/618228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/618513.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/619286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/621102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/6256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/627071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/629525.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/630385.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/631183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/635188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/636308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/636534.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/640699.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/640806.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/645595.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/646657.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/654787.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/65497.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/656975.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/658128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/660825.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/67369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/673838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/675077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/675458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/682403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/682974.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/6833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/68844.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/689402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/691077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/694343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/696278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/698335.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/703943.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/714199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/720175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/722785.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/726559.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/727447.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/729614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/73812.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/742221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/742312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/745988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/747753.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/750110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/750982.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/755998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/762961.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/766170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/773514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/787982.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/789357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/790485.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/793944.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/79445.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/796685.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/803054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/805065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/806114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/811212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/811629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/821596.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/826128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/828179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/83736.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/838467.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/839402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/839615.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/840206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/840255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/842548.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/847081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/847209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/848105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/850082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/852641.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/854815.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/858073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/865166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/876470.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/876850.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/877171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/880050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/880738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/884374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/89357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/894838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/898858.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/907365.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/908898.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/912422.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/912474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/913897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/916007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/917182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/917557.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/924839.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/925988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/927619.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/927841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/928525.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/931249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/949578.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/961292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/961419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/968601.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/985537.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/989402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (15).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (23).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (25).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (26).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (27).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (30).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (34).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (35).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (41).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (44).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (45).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (47).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (48).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (50).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (51).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (64).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (65).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (68).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (7).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (70).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (79).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (8).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (81).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (90).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/car/images (96).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/108960305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/111712537.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/112573437.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/113332920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/11791047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/120822477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/122374183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/12657288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/127941784.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/129304790.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/13033585.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/132952047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/134292972.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/141619720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/145079623.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/145117227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/146535738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/148210185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/150679711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/154953364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/157486753.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/159181126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/160190076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/162486434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/162848933.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/163685813.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/164845417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/166587033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/168935624.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/172026904.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/176182209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/176727600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/176758197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/180883151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/183491782.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/183492808.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/18487093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/190139958.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/192230027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/195178307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/195344234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/195499878.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/196492318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/197325463.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/198266838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/20258104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/206699401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/206967646.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/208066259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/210122024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/211402310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/215077806.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/217086311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/219084833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/221089995.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/222508337.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/224215787.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/227462821.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/227860230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/23101504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/236140059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/237546571.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/239703424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/242214484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/248537379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/251045331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/252531891.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/25295937.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/255290510.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/255841349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/257636890.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/260916719.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/264651280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/266080514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/27300711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/276156269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/286643536.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/28723768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/288061061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/289707744.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/299882248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/303705271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/305374478.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/305838860.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/309460093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/312600795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/314141993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/315021922.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/328479665.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/328782856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/329719474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/330882442.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/332587831.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/334019671.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/337876589.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/340261632.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/342417759.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/34407898.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/346535906.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/349166209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/350300085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/353219063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/354264045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/356020384.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/356399119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/360742400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/361050949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/361716822.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/36680159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/373134631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/373809348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/375203456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/375805477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/377171453.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/380644046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/381758897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/382249922.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/382274150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/382450333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/384810816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/385057847.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/392353883.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/392523538.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/395567198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/400644284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/400883636.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/401476773.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/405230144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/405448702.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/405555825.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/405556.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/406031539.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/407661104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/408224036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/409847280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/41225436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/414867369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/415149186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/415907801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/421292190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/42261117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/422897837.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/422969466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/423135464.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/431746818.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/433466152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/433793461.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/435030115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/435864920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/435889236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/437603113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/4376610.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/439103874.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/440092388.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/440821346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/441878422.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/442799398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/445491571.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/452798033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/455320342.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/460936951.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/461445593.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/466953507.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/468252626.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/475709701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/482498549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/485953581.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/486098587.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/488035092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/490994032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/493716380.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/494392485.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/496912619.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/499132131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/503014436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/503877476.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/507816114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/509177174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/510683903.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/511625668.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/511844723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/51242113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/512529941.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/520489077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/523714938.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/527932666.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/530610584.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/537715853.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/540670151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/542134797.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/543905296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/550051905.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/55006466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/551327121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/562042856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/565404045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/565464503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/566819913.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/568980913.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/575645623.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/577422855.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/578837766.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/581071246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/58334336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/584271360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/586518241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/586937013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/590080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/606736713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/606816332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/60969206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/611752652.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/615554049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/616127372.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/616418343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/616756900.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/616970113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/617814181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/618802687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/62334922.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/624121902.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/626081772.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/626134131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/628920856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/628976252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/630510567.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/630783678.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/630877896.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/632309449.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/632570170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/63292023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/635870629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/636260136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/636454011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/637318988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/639600141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/640841984.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/64696696.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/649074083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/652509328.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/655125943.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/65561577.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/659709121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/660428068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/660743941.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/662451020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/666581544.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/667013037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/66741262.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/671288860.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/673557456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/677903011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/67916145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/680215621.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/685282118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/6853020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/68548902.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/685525869.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/686619871.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/69869371.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/699816883.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/69992231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/700873073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/701108883.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/705726603.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/709163734.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/710927500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/713637923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/713930355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/714121027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/714477016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/714822924.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/714884351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/715052324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/715241412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/716824333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/718532427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/721269409.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/721368399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/721598643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/724490229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/726506728.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/730975295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/73196473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/732605573.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/735392601.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/735884028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/735940047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/739018690.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/739165551.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/740745356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/743816451.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/74519888.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/747398733.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/748880444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/754876305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/754926646.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/75849916.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/76013482.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/7621716.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/764733443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/773325547.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/776327060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/781229503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/781719246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/784292751.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/785464468.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/790507096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/791587248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/793395059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/795348185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/799313355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/799693311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/800513164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/800594339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/806729022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/807866200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/810205132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/81483732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/817192469.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/823997460.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/828986920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/83201526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/832712607.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/836389909.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/838823786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/841248000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/842222874.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/846564848.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/847519759.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/847619411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/850417223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/854746618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/855126061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/855128737.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/855886705.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/857516869.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/860469640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/861919056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/862750288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/863365243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/864179523.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/866495407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/867324347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/875742502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/876490983.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/878570577.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/879325560.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/881456456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/882848969.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/884897816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/885296031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/890329226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/890363383.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/891429356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/895139088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/901410932.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/916231132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/918391563.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/918781988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/921679812.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/9243893.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/927254972.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/931298732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/932777151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/933788017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/934126397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/935692898.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/940670124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/943917099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/944061112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/954468631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/957424688.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/958363915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/960390099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/96151475.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/9638473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/964014892.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/967060433.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/967547956.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/968986169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/969199613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/97080352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/971775338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/972175095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/976588271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/977222407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/978429238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/980156163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/98199038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/984350041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/987504075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/99312373.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/993926677.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/truck/99932369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Classification.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Load.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/train/events.out.tfevents.1680296432.SANJEEB-TIWARY.11952.0.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/validation/events.out.tfevents.1680296445.SANJEEB-TIWARY.11952.1.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/imageclassifier.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaler.pkl" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,22 +751,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Project/Image Classification",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/Image Classification&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Image Classification" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Image Classification" />
@@ -104,6 +827,7 @@
       <workItem from="1682836965261" duration="1389000" />
       <workItem from="1682936023441" duration="75000" />
       <workItem from="1684269502877" duration="2125000" />
+      <workItem from="1684407342730" duration="39000" />
     </task>
     <servers />
   </component>
