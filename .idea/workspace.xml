@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42c02c8c-dad4-4681-893f-31464422ce38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/POC/Image Detection and Difference.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/POC/Image Detection and Difference.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="42c02c8c-dad4-4681-893f-31464422ce38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +85,7 @@
       <workItem from="1684408769966" duration="416000" />
       <workItem from="1684484321584" duration="638000" />
       <workItem from="1684486318692" duration="632000" />
+      <workItem from="1684487290774" duration="442000" />
     </task>
     <servers />
   </component>
