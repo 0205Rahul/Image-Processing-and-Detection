@@ -1,0 +1,10 @@
+Frame
+Engine
+Fuel tank
+Handlebars
+Front fork
+Headlight
+Taillight
+Turn signals
+Mirrors
+Wheels
